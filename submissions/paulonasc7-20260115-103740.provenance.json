@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/paulonasc7/2gas-genalg-greenagent@sha256:c07b3e6e782f83080212228c679730eab244b30a6406b30f0199af829b1cbb44",
+    "ga_suggester": "ghcr.io/paulonasc7/baseline-purple@sha256:987d5d01b37f25bd465bdcbea203a0a055d5e91dec74c7d166e6881df273607c",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-15T10:37:40Z",
+  "github_actions": {
+    "run_url": "https://github.com/paulonasc7/2GAs-GenAlg-GreenAgent-Leaderboard/actions/runs/21028254328",
+    "run_logs_url": "https://api.github.com/repos/paulonasc7/2GAs-GenAlg-GreenAgent-Leaderboard/actions/runs/21028254328/logs",
+    "ref": "refs/heads/paulonasc7-patch-2",
+    "sha": "d087a0582b36869b3629aff6406bba70704d9543",
+    "repository_url": "https://github.com/paulonasc7/2GAs-GenAlg-GreenAgent-Leaderboard",
+    "workflow_ref": "paulonasc7/2GAs-GenAlg-GreenAgent-Leaderboard/.github/workflows/run-scenario.yml@refs/heads/paulonasc7-patch-2",
+    "workflow_sha": "d087a0582b36869b3629aff6406bba70704d9543"
+  }
+}
